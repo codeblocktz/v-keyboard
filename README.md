@@ -214,7 +214,8 @@ if (key.keyType == VKeyboardKeyType.String) {
 setState(() {});
 }
 ```
-
+Original Creator
 - [Gurgen Hovhannisyan](https://github.com/gurgenDP)
-- [Digital Pomegranate](https://digitalpomegranate.com)
 - [LICENSE - MIT](https://github.com/ericmaro/v-keyboard/LICENSE)
+Improvement
+- [CODEBLOCK TEAM](https://codeblock.co.tz)
